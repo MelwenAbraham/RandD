@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandD.Server", "RandD.Server\RandD.Server.csproj", "{1D789F2B-F68A-4077-B15C-2E98FBA5999E}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "randd.client", "randd.client\randd.client.esproj", "{33B0C6C7-D9EB-4F6A-BAEB-0DFC27A5A3B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D789F2B-F68A-4077-B15C-2E98FBA5999E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D789F2B-F68A-4077-B15C-2E98FBA5999E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D789F2B-F68A-4077-B15C-2E98FBA5999E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D789F2B-F68A-4077-B15C-2E98FBA5999E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B0C6C7-D9EB-4F6A-BAEB-0DFC27A5A3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B0C6C7-D9EB-4F6A-BAEB-0DFC27A5A3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B0C6C7-D9EB-4F6A-BAEB-0DFC27A5A3B7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{33B0C6C7-D9EB-4F6A-BAEB-0DFC27A5A3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B0C6C7-D9EB-4F6A-BAEB-0DFC27A5A3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B0C6C7-D9EB-4F6A-BAEB-0DFC27A5A3B7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@RandD.Server_HostAddress = http://localhost:5049
+
+GET {{RandD.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
